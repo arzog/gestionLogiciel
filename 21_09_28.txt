@@ -1,0 +1,21 @@
+note de cours 28-09-21
+
+Les acteurs
+-----------
+/!\ si demande anonymisation => seulement pour les clients privés
+
+client privé
+- nom
+- prénom
+- adresse complete
+- num tel
+- email
+- date de naissance si accord du client (RGPD)
+
+client pro (garde num société, adresse société si anonymisation)
+- nom société 
+- raison social (srl,sa)
+- num tva 
+- num entreprise
+(- num SIRET ==> France)
+- contact (nom, prenom, ...) (table à part)
